@@ -26,7 +26,7 @@ public class TeacherDetails {
 		// TODO Auto-generated constructor stub
 	}
 
-	public TeacherDetails(int id, String city, String hobby) {
+	public TeacherDetails(String city, String hobby) {
 		
 		this.city = city;
 		this.hobby = hobby;
