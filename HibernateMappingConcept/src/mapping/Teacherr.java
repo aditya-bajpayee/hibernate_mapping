@@ -41,7 +41,7 @@ public class Teacherr{
 	}
 
 
-	public Teacherr(int id, String f_name, String l_name, String email) {
+	public Teacherr(String f_name, String l_name, String email) {
 	
 		this.f_name = f_name;
 		this.l_name = l_name;
